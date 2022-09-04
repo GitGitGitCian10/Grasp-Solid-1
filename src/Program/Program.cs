@@ -11,6 +11,7 @@ using Full_GRASP_And_SOLID.Library;
 
 namespace Full_GRASP_And_SOLID
 {
+    // Respuesta: El patrón utilizado para asignar la responsabilidad es Expert.
     public class Program
     {
         private static ArrayList productCatalog = new ArrayList();
